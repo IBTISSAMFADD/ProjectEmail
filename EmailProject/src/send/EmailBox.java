@@ -19,7 +19,7 @@ public class EmailBox extends JFrame {
         add(new JScrollPane(messageArea));
 
         String host = "imap.gmail.com"; // Le nom d'hôte du serveur IMAP
-        String username = "ibtissamfaddouli45@gmail.com"; // Votre nom d'utilisateur de messagerie électronique
+        String username = "ibtissam.faddouli1@gmail.com"; // Votre nom d'utilisateur de messagerie électronique
         String password = "jwyjdpknyligwuhf"; // Votre mot de passe de messagerie électronique
 
         try {
